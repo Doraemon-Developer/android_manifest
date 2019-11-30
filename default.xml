@@ -791,4 +791,7 @@
 
   <!-- Remove some repos -->
   <include name="snippets/remove.xml" />
+
+  <!-- Add Doraemon repos -->
+  <include name="snippets/doraemon.xml" />
 </manifest>
