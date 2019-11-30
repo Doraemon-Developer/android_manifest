@@ -2,7 +2,7 @@
 <manifest>
   <remote name="dora"
           fetch="https://github.com/DoraemonOS"
-          revision="ten" />
+          revision="Quiche" />
 
   <remote name="dora-gitlab"
           fetch="https://gitlab.com/PixelExperience"
