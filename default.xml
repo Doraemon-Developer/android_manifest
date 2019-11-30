@@ -787,10 +787,10 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <!-- Add some LineageOS repos -->
-  <include name="snippets/lineage.xml" />
+  <include name="snippets/remove.xml" />
 
   <!-- Remove some repos -->
-  <include name="snippets/remove.xml" />
+  <include name="snippets/lineage.xml" />
 
   <!-- Add Doraemon repos -->
   <include name="snippets/doraemon.xml" />
