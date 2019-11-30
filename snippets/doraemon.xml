@@ -50,7 +50,7 @@
   <project path="build/blueprint" name="android_build_blueprint" remote="dora" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="dora" />
   <project path="development" name="android_development" remote="dora" />
-  <project path="device/dora/sepolicy" name="android_device_dora_sepolicy" remote="dora" />
+  <project path="device/doraemon/sepolicy" name="android_device_doraemon_sepolicy" remote="dora" />
   <project path="manifest" name="android_manifest" remote="dora" />
   <project path="platform_testing" name="android_platform_testing" remote="dora" />
   <project path="vendor/doraemon" name="android_vendor_doraemon" remote="dora" />
