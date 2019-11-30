@@ -3,6 +3,10 @@
   <remote name="dora"
           fetch="https://github.com/DoraemonOS"
           revision="Quiche" />
+  
+  <remote name="mini"
+          fetch="https://github.com/Doraemon-Developer"
+          revision="Quiche" />
 
   <remote name="dora-gitlab"
           fetch="https://gitlab.com/PixelExperience"
@@ -51,7 +55,7 @@
   <project path="bootable/recovery" name="android_bootable_recovery" remote="dora" />
   <project path="development" name="android_development" remote="dora" />
   <project path="device/doraemon/sepolicy" name="android_device_doraemon_sepolicy" remote="dora" />
-  <project path="manifest" name="android_manifest" remote="dora" />
+  <project path="manifest" name="android_manifest" remote="mini" />
   <project path="platform_testing" name="android_platform_testing" remote="dora" />
   <project path="vendor/doraemon" name="android_vendor_doraemon" remote="dora" />
   <project path="vendor/gapps" name="android_vendor_gapps" remote="dora-gitlab" clone-depth="1" />
