@@ -84,10 +84,10 @@
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="dora" />
 
   <!-- External repos -->
-  <project path="external/tinycompress" name="external_tinycompress" remote="dora" />
+  <project path="external/tinycompress" name="android_external_tinycompress" remote="dora" />
 
   <!-- System Repos -->
-  <project path="system/bt" name="android_system_bt" remote="dora" />
+  <project path="system/bt" name="android_android_system_bt" remote="dora" />
   <project path="system/core" name="android_system_core" remote="dora" />
   <project path="system/netd" name="android_system_netd" remote="dora" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="dora" />
