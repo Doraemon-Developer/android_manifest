@@ -788,4 +788,7 @@
 
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
+
+  <!-- Remove some repos -->
+  <include name="snippets/remove.xml" />
 </manifest>
